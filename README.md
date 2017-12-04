@@ -1,2 +1,5 @@
 # devops-aula03
-Beltrano, Ciclano, Fulano
+Beltrano
+Ciclana
+Fulano
+Sujeito
